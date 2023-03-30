@@ -1,0 +1,30 @@
+.mystyle {
+    width: 100%;    
+    padding: 25px;
+    background-color: coral;
+    color: white;
+    font-size: 25px;
+  }
+
+.formulario {
+    background-color: rgb(5, 12, 26);
+    color: rgb(221, 190, 193);
+    text-align: center;
+  }
+
+  .toggle {
+    background-color: rgb(221, 190, 193);
+    text-align: center;
+  }
+
+  .form {
+    margin-left: 1%;
+  }
+
+  .starplus {
+    color: rgb(65, 11, 11);
+  }
+
+  .bien {
+    color: #7c3232;
+  }
